@@ -55,7 +55,7 @@ flexibility in task allocation evolves, and to provide potential theoretical exp
 <p class="publication-paragraph">
 <table>
 <tr>
-<td style="vertical-align:middle; max-width:500px">
+<td style="vertical-align:middle; max-width:500px; min-width:70%">
 <div class="publication-title"> Emergence of diverse life cycles and life histories at the origin of multicellularity </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U>, Jordi van Gestel, and Corina E. Tarnita </div>
 <div class="publication-details"> <I> Nature Ecology & Evolution </I> 3, 1197-1205 (2019) </div>
@@ -66,8 +66,8 @@ on ancestral gene regulation. We find that diverse types of multicellular life c
  </div>
 </td>
 
-<td style="vertical-align:middle; padding-left:10pt;">
-<img src="../images/life_cycle_figure.png" style="height:140pt;" alt="Life cycles">
+<td style="vertical-align:middle; padding-left:10pt">
+<img src="../images/life_cycle_figure.png" style="max-height:140pt;max-width:100%;object-fit:scale-down" alt="Life cycles">
 </td>
 </tr>
 </table>
@@ -80,7 +80,7 @@ on ancestral gene regulation. We find that diverse types of multicellular life c
 <p class="publication-paragraph">
 <table>
 <tr>
-<td style="vertical-align:middle; max-width:600px;" >
+<td style="vertical-align:middle; max-width:600px; min-width:80%" >
 <div class="publication-title"> The diameter of KPKVB random graphs </div> 
 <div class="publication-authors"> Tobias Müller & <U>Merlijn Staps</U> </div>
 <div class="publication-details"> <I> Advances in Applied Probability </I> 51 (2), 358-377 (2019) </div>
@@ -91,7 +91,7 @@ networks &#8212; small distances between any two nodes &#8212; is indeed recapit
 </td>
 
 <td style="vertical-align:bottom; padding-left:10pt;">
-<img src="../images/hyperbolic.png" style="height:120pt;" alt="Hyperbolic random graph">
+<img src="../images/hyperbolic.png" style="height:120pt;max-width:100%" alt="Hyperbolic random graph">
 </td>
 </tr>
 </table>
