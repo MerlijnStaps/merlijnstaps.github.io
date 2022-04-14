@@ -21,6 +21,10 @@ excerpt_separator: <!-- more -->
 
 {%if 1==0 %}
 <p class="publication-paragraph"> </p>
+
+<table>
+<tr>
+<td style="vertical-align:middle; max-width:600px; min-width:80%">
 <div class="publication-title"> When being flexible matters: ecological underpinnings for the evolution of collective flexibility and task allocation </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U> & Corina E. Tarnita </div>
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences, USA </I>  (2022) </div>
@@ -28,6 +32,13 @@ excerpt_separator: <!-- more -->
 In this paper, we construct a general theoretical framework for the evolution of task allocation in variable environments. We use this framework to derive general ecological conditions under which
 flexibility in task allocation evolves, and to provide potential theoretical explanations for puzzling empirical observations.
  </div>
+ </td>
+
+ <td style="vertical-align:middle; padding-left:10pt">
+ <img src="../images/task_allocation.png" style="max-height:130pt;max-width:100%;object-fit:scale-down" alt="Task allocation">
+ </td>
+ </tr>
+ </table>
  {%endif%}
 
 
@@ -67,7 +78,7 @@ on ancestral gene regulation. We find that diverse types of multicellular life c
 </td>
 
 <td style="vertical-align:middle; padding-left:10pt">
-<img src="../images/life_cycle_figure.png" style="max-height:140pt;max-width:100%;object-fit:scale-down" alt="Life cycles">
+<img src="../images/life_cycle_figure.png" style="max-height:150pt;max-width:100%;object-fit:scale-down" alt="Life cycles">
 </td>
 </tr>
 </table>
@@ -80,7 +91,7 @@ on ancestral gene regulation. We find that diverse types of multicellular life c
 <p class="publication-paragraph">
 <table>
 <tr>
-<td style="vertical-align:middle; max-width:600px; min-width:80%" >
+<td style="vertical-align:middle; max-width:600px; min-width:70%" >
 <div class="publication-title"> The diameter of KPKVB random graphs </div> 
 <div class="publication-authors"> Tobias Müller & <U>Merlijn Staps</U> </div>
 <div class="publication-details"> <I> Advances in Applied Probability </I> 51 (2), 358-377 (2019) </div>
@@ -90,8 +101,8 @@ Random geometric graphs in the hyperbolic plane have been proposed as a model fo
 networks &#8212; small distances between any two nodes &#8212; is indeed recapitulated by this random graph model.</div>
 </td>
 
-<td style="vertical-align:bottom; padding-left:10pt;">
-<img src="../images/hyperbolic.png" style="height:120pt;max-width:100%" alt="Hyperbolic random graph">
+<td style="vertical-align:bottom; align:center; padding-left:10pt;">
+<img src="../images/hyperbolic.png" style="height:180pt;max-width:100%" alt="Hyperbolic random graph">
 </td>
 </tr>
 </table>
