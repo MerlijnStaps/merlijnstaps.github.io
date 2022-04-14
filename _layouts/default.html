@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
@@ -12,23 +12,63 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
   </head>
 
   <body>
     <div class="wrapper-masthead">
       <div class="container">
         <header class="masthead clearfix">
-          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
+          <a href="{{ site.baseurl }}/" class="site-avatar"><img src="../{{ site.avatar }}" style="max-width:100%"/></a>
 
           <div class="site-info">
             <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <p class="site-description" style="margin-bottom:0.25cm">{{ site.description }}</p>
+            <p class="site-description"> 
+            
+            <link rel="stylesheet" href="../css/academicons.min.css"/>
+            <script src="https://kit.fontawesome.com/abbbcadf24.js" crossorigin="anonymous"></script>
+            
+            <a href="mailto:merlijnstaps@gmail.com" target="_blank">
+            <i class="fa-solid fa-square-envelope" style="font-size:150%;"></i>
+            </a>
+            
+            <a href="https://scholar.google.com/citations?user=ZH9VoHgAAAAJ&hl=en" target="_blank">
+            <i class="ai ai-google-scholar-square ai-2x" style="font-size:150%;"></i>
+            </a>
+            
+            
+
+            
+            
+            <a href="https://orcid.org/0000-0003-4869-4817" target="_blank">
+                <i class="fa-brands fa-orcid" style="font-size:140%;"></i>
+            </a>
+            
+            <a href="https://github.com/merlijnstaps/" target="_blank">
+            <i class="fa-brands fa-github-square" style="font-size:150%;"></i>
+            </a>
+            
+                        <a href="https://twitter.com/merlijnstaps" target="_blank">
+                        <i class="fa-brands fa-twitter-square" style="font-size:150%;"></i>
+                        </a>
+            
+            </p>
           </div>
+          
+
+          
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+          <div class="site-info">
+             <!-- <p> {% include svg-icons.html %} </p> -->
+          </div>         
+          <p class="menu">
+             <a href="{{ site.baseurl }}/">Home</a> &middot;
+            <a href="{{ site.baseurl }}/about-me/">About me</a> &middot;
+           <a href="{{ site.baseurl }}/publications">Papers</a> &middot;
+          <a href="{{ site.baseurl }}/teaching">Teaching</a> &middot;
+          <a href="{{ site.baseurl }}/CV">CV</a>
+          </p>
           </nav>
         </header>
       </div>
@@ -38,6 +78,7 @@
       {{ content }}
     </div>
 
+<!--
     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
@@ -45,7 +86,7 @@
         </footer>
       </div>
     </div>
-
+-->
     {% include analytics.html %}
   </body>
 </html>
