@@ -48,7 +48,7 @@ flexibility in task allocation evolves, and to provide potential theoretical exp
 <div class="publication-title"> Life cycles as a central organizing theme for studying multicellularity </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U>, Jordi van Gestel, and Corina E. Tarnita </div>
 <div class="publication-details"> <I> The Evolution of Multicellularity</I>, edited by Matthew Herron, Peter Conlin, and Will Ratcliff (2022) </div>
-<div class="publication-details"> <a href="https://www.routledge.com/The-Evolution-of-Multicellularity/Herron-Conlin-Ratcliff/p/book/9780367356965" target="_blank"> link </a>  </div>
+<div class="publication-details"> <a href="https://www.routledge.com/The-Evolution-of-Multicellularity/Herron-Conlin-Ratcliff/p/book/9780367356965" target="_blank"> link to book </a>  </div>
 <div class="publication-explanation"> Contributed book chapter outlining life cycles as a conceptual tool to study the evolutionary origins of multicellularity. </div>
 </p>
 {%endif%}
