@@ -19,7 +19,6 @@ excerpt_separator: <!-- more -->
 <div style="font-size:75%; color:#787878"> If you have questions/comments about any of my papers (or would like a PDF), please reach out to me. I'd love to hear from you! </div> 
 {%endif%}
 
-{%if 1==0 %}
 <p class="publication-paragraph"> </p>
 
 <table>
@@ -27,7 +26,7 @@ excerpt_separator: <!-- more -->
 <td style="vertical-align:middle; max-width:600px; min-width:80%">
 <div class="publication-title"> When being flexible matters: ecological underpinnings for the evolution of collective flexibility and task allocation </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U> & Corina E. Tarnita </div>
-<div class="publication-details"> <I> Proceedings of the National Academy of Sciences, USA </I>  (2022) </div>
+<div class="publication-details"> <I> PNAS </I>  (in press) </div>
 <div class="publication-explanation"> Task allocation is a hallmark of collective organization. It is exemplified by social insect colonies which allocate workers to different tasks, or multicellular organisms which do the same with cells.
 In this paper, we construct a general theoretical framework for the evolution of task allocation in variable environments. We use this framework to derive general ecological conditions under which
 flexibility in task allocation evolves, and to provide potential theoretical explanations for puzzling empirical observations.
@@ -39,8 +38,6 @@ flexibility in task allocation evolves, and to provide potential theoretical exp
  </td>
  </tr>
  </table>
- {%endif%}
-
 
 
 {%if page.excerpt != nil %}
