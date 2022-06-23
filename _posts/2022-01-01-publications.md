@@ -27,10 +27,12 @@ excerpt_separator: <!-- more -->
 <div class="publication-title"> When being flexible matters: ecological underpinnings for the evolution of collective flexibility and task allocation </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U> & Corina E. Tarnita </div>
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I>  119 (18), e2116066119 (2022) </div>
-<div class="publication-details"> <a href="https://www.doi.org/10.1073/pnas.2116066119" target="_blank"> doi </a> &middot; <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2116066119" target="_blank"> pdf </a> </div>
-<div class="publication-explanation"> Task allocation is a hallmark of collective organization. It is exemplified by social insect colonies which allocate workers to different tasks, or multicellular organisms which do the same with cells.
-In this paper, we construct a general theoretical framework for the evolution of task allocation in variable environments. We use this framework to derive general ecological conditions under which
-flexibility in task allocation evolves, and to provide potential theoretical explanations for puzzling empirical observations.
+<div class="publication-details"> <a href="https://www.doi.org/10.1073/pnas.2116066119" target="_blank"> doi </a> 
+&middot; <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2116066119" target="_blank"> pdf </a> 
+&middot; <a href="https://twitter.com/merlijnstaps/status/1521186893483937792" target="_blank"> twitter thread </a>
+</div>
+<div class="publication-explanation"> In this paper, we construct a general theoretical framework for the evolution of task allocation in variable environments, applicable to multicellular organisms and social insect colonies. 
+We use the framework to derive general ecological conditions for the evolution of task allocation flexibility, and propose potential theoretical explanations for some puzzling empirical observations.
  </div>
  </td>
 
@@ -70,8 +72,8 @@ flexibility in task allocation evolves, and to provide potential theoretical exp
 <div class="publication-details"> <I> Nature Ecology & Evolution </I> 3, 1197-1205 (2019) </div>
 <div class="publication-details"> <a href="https://doi.org/10.1038/s41559-019-0940-0" target="_blank"> doi </a> &middot; <a href="https://www.nature.com/articles/s41559-019-0940-0.pdf" target="_blank"> pdf </a> &middot;
 <a href="https://ecoevocommunity.nature.com/posts/50860-modeling-the-evolution-of-the-first-multicellular-life-cycles" target="_blank">behind-the-paper</a> </div>
-<div class="publication-explanation"> In this paper, we build a theoretical model for the first emergence of multicellular life, starting from a unicellular ancestor. Our focus is on the nascent multicellular life cycles that can evolve, drawing
-on ancestral gene regulation. We find that diverse types of multicellular life cycles could have easily emerged early on, and that the properties of these life cycles are shaped by ancestral constraints and ecological conditions.  
+<div class="publication-explanation"> In this paper, we build a theoretical model for the first emergence of multicellular life cycles, starting from a unicellular ancestor. 
+We find that diverse types of multicellular life cycles could have easily emerged early on, shaped by ancestral constraints and ecological conditions.  
  </div>
 </td>
 
@@ -94,8 +96,8 @@ on ancestral gene regulation. We find that diverse types of multicellular life c
 <div class="publication-authors"> Tobias Müller & <U>Merlijn Staps</U> </div>
 <div class="publication-details"> <I> Advances in Applied Probability </I> 51 (2), 358-377 (2019) </div>
 <div class="publication-details"> <a href="https://doi.org/10.1017/apr.2019.23" target="_blank"> doi </a> &middot; <a href="https://arxiv.org/abs/1707.09555" target="_blank"> arXiv </a> &middot; <a href="https://arxiv.org/pdf/1707.09555.pdf" target="_blank"> arXiv pdf </a> </div>
-<div class="publication-explanation">A random geometric graph is a graph that is obtained by randomly sampling nodes in some geometric space and then connecting nodes if they are sufficiently close.
-Random geometric graphs in the hyperbolic plane have been proposed as a model for complex networks. In this paper, we show mathematically that one classic property of real-world complex
+<div class="publication-explanation">In this paper, we study hyperbolic random graphs, which are a recently-proposed random geometric graph model for complex networks. 
+We show mathematically that one classic property of real-world complex
 networks &#8212; small distances between any two nodes &#8212; is indeed recapitulated by this random graph model.</div>
 </td>
 

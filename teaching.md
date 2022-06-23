@@ -9,6 +9,8 @@ layout: default
 For me, teaching is one of the most rewarding aspects of being in academia. Most of my past teaching experience is in courses about **mathematical biology** and **statistics**, topics that I really enjoy to teach 
 because they are beautiful in their own right and also serve themselves well to help students develop the ability to think critically, rigorously, and quantitatively. 
 
+In 2022, I was <A HREF="https://www.princeton.edu/news/2022/05/13/graduate-students-honored-excellence-teaching" TARGET="_BLANK">recognized</A> with a Graduate Teaching Award for my teaching at Princeton.
+
 ### Teaching at Princeton
 
 Courses for which I was an Assistant in Instruction at Princeton:
@@ -22,8 +24,7 @@ In Fall 2021, I also designed and led the statistics refresher for EEB undergrad
 
 ### Past teaching experience
 
-When studying at Utrecht (2011-2018), I was a teaching assistant for numerous courses, including <I>Systems Biology</I>, <I>Experimental design and Statistics</I>, and *Applied biostatistics* (biology department), and 
+When at Utrecht (2011-2018), I was a teaching assistant for courses <I>Systems Biology</I>, <I>Experimental design and Statistics</I>, and *Applied biostatistics* (biology department), and 
 *Introduction to Geometry*, *Group Theory*, *Measure Theory*, and *Mathematical statistics* (math department).
 
-From 2012-2019, I was a trainer in the <A HREF="https://www.wiskundeolympiade.nl" TARGET="_BLANK">Dutch Mathematical Olympiad</A> program. As a trainer, I was involved in selecting and preparing talented high school students for international mathematics competitions, 
-most notably the International Mathematical Olympiad (IMO). This work included designing materials, organizing and teaching training activities, and tutoring students. 
+From 2012-2019, I was a trainer in the <A HREF="https://www.wiskundeolympiade.nl" TARGET="_BLANK">Dutch Mathematical Olympiad</A> program. 
