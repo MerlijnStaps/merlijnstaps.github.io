@@ -13,7 +13,7 @@ In 2022, I was <A HREF="https://www.princeton.edu/news/2022/05/13/graduate-stude
 
 ### Past teaching experience
 
-At Princeton (2018-2021), I was an Assistant in Instruction for the undergraduate courses *Mathematical Modeling in Biology and Medicine* (2x),
+At Princeton (2018-), I have been an Assistant in Instruction for the undergraduate courses *Mathematical Modeling in Biology and Medicine* (2x),
 *Ecology and Conservation of African Landscapes*, and 
 *Animal Behavior*. I also designed and led a statistics refresher for EEB undergraduates.
 
