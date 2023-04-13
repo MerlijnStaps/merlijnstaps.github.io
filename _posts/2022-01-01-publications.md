@@ -16,7 +16,7 @@ excerpt_separator: <!-- more -->
 {%endif%}
 
 {%if page.excerpt != nil %}
-<div style="font-size:75%; color:#787878"> If you have questions/comments about any of my papers (or would like a PDF), please reach out to me. I'd love to hear from you! </div> 
+<div style="font-size:75%; color:#787878"> Please reach out to me with questions/comments about any of these papers or with requests for a copy. I'd love to hear from you! </div> 
 {%endif%}
 
 <p class="publication-paragraph"> </p>
@@ -29,10 +29,11 @@ excerpt_separator: <!-- more -->
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I>  119 (18), e2116066119 (2022) </div>
 <div class="publication-details"> <a href="https://www.doi.org/10.1073/pnas.2116066119" target="_blank"> doi </a> 
 &middot; <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2116066119" target="_blank"> pdf </a> 
-&middot; <a href="https://twitter.com/merlijnstaps/status/1521186893483937792" target="_blank"> twitter thread </a>
 </div>
-<div class="publication-explanation"> In this paper, we construct a general theoretical framework for the evolution of task allocation in variable environments, applicable to multicellular organisms and social insect colonies. 
-We use the framework to derive general ecological conditions for the evolution of task allocation flexibility, and propose potential theoretical explanations for some puzzling empirical observations.
+<div class="publication-explanation"> In this paper, we develop a general theoretical framework 
+for the evolution of task allocation in variable environments, applicable to multicellular organisms and social insect colonies. 
+We use the framework to ask when we should expect task allocation systems to evolve collective flexibility, 
+and propose potential theoretical explanations for some puzzling empirical observations.
  </div>
  </td>
 
