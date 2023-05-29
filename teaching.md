@@ -5,7 +5,7 @@ layout: default
 
 ## Teaching
 
-I find teaching one of the most rewarding aspects of my work. Most of my past teaching experience is in **mathematical biology** and **statistics**, topics that I really enjoy teaching 
+I find teaching one of the most rewarding aspects of my work. Most of my past teaching experience is in mathematical biology and statistics, topics that I really enjoy teaching 
 because they are beautiful in their own right and also serve themselves well to help students develop the ability to think critically, rigorously, and quantitatively. 
 
 ### Past teaching experience (Princeton)
@@ -17,7 +17,7 @@ At Princeton (2018-), I was an assistant in instruction for four undergraduate c
 * 2019: EEB380, Ecology and Conservation of African Landscapes
 * 2018: EEB311, Animal Behavior
 
-In 2022, I was <A HREF="https://www.princeton.edu/news/2022/05/13/graduate-students-honored-excellence-teaching" TARGET="_BLANK">recognized</A> with a Graduate Teaching Award for my teaching at Princeton.
+In 2022, I was recognized with a <A HREF="https://www.princeton.edu/news/2022/05/13/graduate-students-honored-excellence-teaching" TARGET="_BLANK">Graduate Teaching Award</A> for my teaching at Princeton.
 
 From 2022, I also served as <A HREF="https://mcgraw.princeton.edu/about/meet-our-staff/graduate-teaching-fellows" TARGET="_BLANK">Graduate Teaching Fellow</A>, a role which involves training first-time 
 graduate assistants in instruction. 
