@@ -16,7 +16,7 @@ excerpt_separator: <!-- more -->
 {%endif%}
 
 {%if page.excerpt != nil %}
-<div style="font-size:75%; color:#787878"> Please reach out to me with questions/comments about any of these papers or with requests for a copy. I'd love to hear from you! </div> 
+<div style="font-size:90%; color:#787878"> Please reach out to me with questions/comments about any of these papers or with requests for a copy. I'd love to hear from you! </div> 
 {%endif%}
 
 <p class="publication-paragraph"> </p>

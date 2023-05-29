@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
+  font: 14px/1.4 $helvetica;
   color: $darkGray;
 }
 
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   color: $darkerGray;
   font-weight: bold;
 
@@ -45,22 +45,22 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px;
+  font-size: 24px;
   a {
     color: inherit;
   }
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 18px;
+  font-size: 16px;
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16px;
   color: $gray;
 }
 
@@ -140,30 +140,30 @@ img {
 .publication-title {
   max-width:800px;
   font-weight: 700;
-  font-size:85%;
+  font-size:100%;
 }
 
 
 .publication-authors {
   max-width:800px;
-  font-size:80%;
+  font-size:90%;
 }
 
 
 .publication-details {
   max-width:800px;
-  font-size:80%;
+  font-size:90%;
 }
 
 
 .publication-explanation {
   max-width:800px;
-  font-size:75%;
+  font-size:90%;
   color: $gray;
 }
 
 .details {
-  font-size:80%;
+  font-size:90%;
 }
 
 .publication-paragraph {
@@ -236,10 +236,10 @@ border-bottom: 1px solid $lightGray;
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   font-weight: 300;
   font-size: 28px;
-  letter-spacing: 1px;
+  letter-spacing: 0px;
   margin-top: 20px;
 }
 
@@ -257,7 +257,7 @@ border-bottom: 1px solid $lightGray;
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: $helvetica;
   font-size: 18px;
 
   @include mobile {
@@ -273,7 +273,7 @@ nav {
     color: $darkGray;
     text-align: right;
     font-weight: 300;
-    letter-spacing: 1px;
+    letter-spacing: 0px;
 
     @include mobile {
       margin: 0 10px;
@@ -316,7 +316,7 @@ nav {
 
   .read-more {
     /* text-transform: uppercase; */
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
