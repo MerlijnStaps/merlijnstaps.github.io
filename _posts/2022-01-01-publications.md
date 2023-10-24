@@ -19,11 +19,33 @@ excerpt_separator: <!-- more -->
 <div style="font-size:90%; color:#787878"> Please reach out to me with questions/comments about any of these papers or with requests for a copy. I'd love to hear from you! </div> 
 {%endif%}
 
+
+<p class="publication-paragraph">
+<table>
+<tr>
+<td style="vertical-align:middle; max-width:500px; min-width:70%">
+<div class="publication-title"> Development shapes the evolutionary diversification of rodent stripe patterns </div> 
+<div class="publication-authors"> <U>Merlijn Staps</U>, Pearson W. Miller, Corina E. Tarnita, and Ricardo Mallarino </div>
+<div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I> 120 (45), e2312077120 (2023) </div>
+<div class="publication-details"> <a href="https://www.pnas.org/doi/10.1073/pnas.2312077120" target="_blank"> doi </a> 
+&middot; <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2312077120" target="_blank"> pdf </a> 
+</div><div class="publication-explanation">In this work, we investigate the diversity of rodent stripe patterns from an evolutionary and developmental perspective. 
+Using a mathematical model for pattern development inspired by recent molecular data, we show that development may have both facilitated and constrained pattern evolution.
+ </div>
+</td>
+
+<td style="vertical-align:middle; padding-left:10pt">
+<img src="../images/rodent_patterns.png" style="max-height:135pt;max-width:100%;object-fit:scale-down" alt="Rodent patterns">
+</td>
+</tr>
+</table>
+</p>
+
 <p class="publication-paragraph"> </p>
 
 <table>
 <tr>
-<td style="vertical-align:middle; max-width:600px; min-width:80%">
+<td style="vertical-align:middle; max-width:550px; min-width:80%">
 <div class="publication-title"> When being flexible matters: ecological underpinnings for the evolution of collective flexibility and task allocation </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U> & Corina E. Tarnita </div>
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I>  119 (18), e2116066119 (2022) </div>
@@ -32,8 +54,7 @@ excerpt_separator: <!-- more -->
 </div>
 <div class="publication-explanation"> In this paper, we develop a general theoretical framework 
 for the evolution of task allocation in variable environments, applicable to multicellular organisms and social insect colonies. 
-We use the framework to ask when we should expect task allocation systems to evolve collective flexibility, 
-and propose potential theoretical explanations for some puzzling empirical observations.
+We derive simple and general conditions for the evolution of collective flexibility, and propose potential theoretical explanations for some puzzling empirical observations.
  </div>
  </td>
 
@@ -88,6 +109,7 @@ We find that diverse types of multicellular life cycles could have easily emerge
 
 
 
+{%if page.excerpt != nil %}
 
 <p class="publication-paragraph">
 <table>
@@ -110,7 +132,6 @@ networks &#8212; small distances between any two nodes &#8212; is indeed recapit
 </p>
 
 
-{%if page.excerpt != nil %}
 <p class="publication-paragraph">
 <div class="publication-title"> The relative sizes of sumsets and difference sets </div> 
 <div class="publication-authors"> <U> Merlijn Staps </U> </div>
