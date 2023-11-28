@@ -28,7 +28,7 @@ excerpt_separator: <!-- more -->
 <div class="publication-authors"> <U>Merlijn Staps</U>, Pearson W. Miller, Corina E. Tarnita, and Ricardo Mallarino </div>
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I> 120 (45), e2312077120 (2023) </div>
 <div class="publication-details"> <a href="https://www.pnas.org/doi/10.1073/pnas.2312077120" target="_blank"> doi </a> 
-&middot; <a href="https://www.pnas.org/doi/epdf/10.1073/pnas.2312077120" target="_blank"> pdf </a> 
+&middot; <a href="https://www.mallarinolab.org/uploads/9/0/6/5/90653467/stapsetalpnas2023.pdf" target="_blank"> pdf </a> 
 </div><div class="publication-explanation">In this work, we investigate the diversity of rodent stripe patterns from an evolutionary and developmental perspective. 
 Using a mathematical model for pattern development inspired by recent molecular data, we show that development may have both facilitated and constrained pattern evolution.
  </div>
