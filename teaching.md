@@ -5,12 +5,20 @@ layout: default
 
 ## Teaching
 
-I find teaching one of the most rewarding aspects of my work. Most of my past teaching experience is in mathematical biology and statistics, topics that I really enjoy teaching 
-because they are beautiful in their own right and also serve themselves well to help students develop the ability to think critically, rigorously, and quantitatively. 
+I find teaching one of the most rewarding aspects of my work. I mostly enjoy teaching mathematical biology and statistics, 
+because they are beautiful topics in their own right and also lend themselves well to help biology students develop the ability to think critically, rigorously, and quantitatively. 
+
+### Current teaching (Princeton)
+
+As a lecturer in the Ecology and Evolutionary Biology department, I designed the new course EEB355, Statistics for Biologists, and teach it in Spring 2024 and Spring 2025. See the advertisement for the first iteration of the course below:
+
+<img src="../images/EEB355_poster_no_QR.png" style="max-height:10%;max-width:45%;object-fit:scale-down" alt="Poster for EEB355">
+
+In Fall 2024, I also teach EEB325, Mathematical Modeling in Biology and Medicine.
 
 ### Past teaching experience (Princeton)
 
-At Princeton (2018-), I was an assistant in instruction for four undergraduate courses in the Ecology & Evolutionary Biology department:
+As a graduate student at Princeton (2018-2023), I was an assistant in instruction for four undergraduate courses in the Ecology & Evolutionary Biology department:
 
 * 2021: EEB325, Mathematical Modeling in Biology and Medicine
 * 2020: EEB325, Mathematical Modeling in Biology and Medicine
