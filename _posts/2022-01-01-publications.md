@@ -19,6 +19,24 @@ excerpt_separator: <!-- more -->
 <div style="font-size:90%; color:#787878"> Please reach out to me with questions/comments about any of these papers or with requests for a copy. I'd love to hear from you! </div> 
 {%endif%}
 
+<p class="publication-paragraph">
+<table>
+<tr>
+<td style="vertical-align:middle; max-width:500px; min-width:70%">
+<div class="publication-title"> Ecological principles for the evolution of communication in collective systems </div> 
+<div class="publication-authors"> <U>Merlijn Staps</U>, Corina E. Tarnita, and Mari Kawakatsu </div>
+<div class="publication-details"> <I> Proceedings of the Royal Society B: Biological Sciences </I>, in press (2024) </div>
+<div class="publication-details"> </div>
+<div class="publication-explanation"> We derive ecological conditions for the evolution of communication in a collective context and show how diverse communication strategies used by social insects (e.g., honeybee waggle dance, trail pheromones, antennal contacts) can be explained theoretically as adaptations to different ecological pressures.  
+ </div>
+</td>
+
+<td style="vertical-align:middle; padding-left:10pt">
+<img src="../images/communication.png" style="max-height:115pt;max-width:100%;object-fit:scale-down" alt="Communication model">
+</td>
+</tr>
+</table>
+
 
 <p class="publication-paragraph">
 <table>
@@ -85,6 +103,8 @@ We derive simple and general conditions for the evolution of collective flexibil
 </p>
 {%endif%}
 
+
+{%if page.excerpt != nil %}
 <p class="publication-paragraph">
 <table>
 <tr>
@@ -105,6 +125,7 @@ We find that diverse types of multicellular life cycles could have easily emerge
 </tr>
 </table>
 </p>
+{%endif%}
 
 
 
