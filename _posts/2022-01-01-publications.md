@@ -27,7 +27,7 @@ excerpt_separator: <!-- more -->
 <div class="publication-authors"> <U>Merlijn Staps</U>, Corina E. Tarnita, and Mari Kawakatsu </div>
 <div class="publication-details"> <I> Proceedings of the Royal Society B: Biological Sciences</I>, in press (2024) </div>
 <div class="publication-details"> </div>
-<div class="publication-explanation"> We derive ecological conditions for the evolution of communication in a collective context and show how diverse communication strategies used by social insects (e.g., honeybee waggle dance, trail pheromones, antennal contacts) can be explained theoretically as adaptations to different ecological pressures.  
+<div class="publication-explanation"> We derive ecological conditions for the evolution of communication in a collective context and show how diverse communication strategies used by social insects (e.g., honeybee waggle dance, trail pheromones, antennal contacts) can be explained theoretically as adaptations to different ecological circumstances.  
  </div>
 </td>
 
@@ -47,8 +47,7 @@ excerpt_separator: <!-- more -->
 <div class="publication-details"> <I> Proceedings of the National Academy of Sciences USA </I> 120 (45), e2312077120 (2023) </div>
 <div class="publication-details"> <a href="https://www.pnas.org/doi/10.1073/pnas.2312077120" target="_blank"> doi </a> 
 &middot; <a href="https://www.mallarinolab.org/uploads/9/0/6/5/90653467/stapsetalpnas2023.pdf" target="_blank"> pdf </a> 
-</div><div class="publication-explanation">In this work, we investigate the diversity of rodent stripe patterns from an evolutionary and developmental perspective. 
-Using a mathematical model for pattern development inspired by recent molecular data, we show that development may have both facilitated and constrained pattern evolution.
+</div><div class="publication-explanation">In this work, we describe the diversity of rodent stripe patterns and explain it from simple developmental principles. We do so by using an integrated approach that combines recent molecular insights, pattern formation models, and phylogenetic analysis. 
  </div>
 </td>
 
