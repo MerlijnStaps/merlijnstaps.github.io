@@ -25,8 +25,9 @@ excerpt_separator: <!-- more -->
 <td style="vertical-align:middle; max-width:500px; min-width:70%">
 <div class="publication-title"> Ecological principles for the evolution of communication in collective systems </div> 
 <div class="publication-authors"> <U>Merlijn Staps</U>, Corina E. Tarnita, and Mari Kawakatsu </div>
-<div class="publication-details"> <I> Proceedings of the Royal Society B: Biological Sciences</I>, in press (2024) </div>
-<div class="publication-details"> </div>
+<div class="publication-details"> <I> Proceedings of the Royal Society B: Biological Sciences</I>, 291: 20241562 (2024) </div>
+<div class="publication-details"> <a href="https://royalsocietypublishing.org/doi/10.1098/rspb.2024.1562" target="_blank"> doi </a> 
+&middot; <a href="https://royalsocietypublishing.org/doi/pdf/10.1098/rspb.2024.1562" target="_blank"> pdf </a> </div>
 <div class="publication-explanation"> We derive ecological conditions for the evolution of communication in a collective context and show how diverse communication strategies used by social insects (e.g., honeybee waggle dance, trail pheromones, antennal contacts) can be explained theoretically as adaptations to different ecological circumstances.  
  </div>
 </td>
